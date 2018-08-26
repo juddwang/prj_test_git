@@ -7,5 +7,14 @@ Add some comments...
 2018/08/25 12:01
 Add some comments at dev branch...
 
+<<<<<<< HEAD
 2018/08/25 18:30
 Changed by 139.com
+=======
+2018/08/25 18:27
+Changed by juddwang Gmail
+>>>>>>> e6d17741684153d0fa90d5443a31f245eff64303
+
+2018/08/26
+The above info is auto-changed by GIT.
+We'd like keep Gmail modification!
