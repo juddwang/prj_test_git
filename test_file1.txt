@@ -21,5 +21,17 @@ We'd like keep Gmail modification!
 
 
 2018/08/27
+<<<<<<< HEAD
 Testing Rebase Function
 First change this file by juddwang Gmail
+=======
+Test Rebase
+Change this file under 139.com, First Time!
+
+2018/08/27 23:35
+Test Rebase
+Change this file under 139.com, Second Time!
+>>>>>>> dbfa6a26a5518404639a5a9c0cc35e80e12d63da
+
+Conflict Found, Make a choose!
+
