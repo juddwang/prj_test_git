@@ -23,3 +23,7 @@ We'd like keep Gmail modification!
 2018/08/27
 Test Rebase
 Change this file under 139.com, First Time!
+
+2018/08/27 23:35
+Test Rebase
+Change this file under 139.com, Second Time!
